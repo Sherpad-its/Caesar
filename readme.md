@@ -12,8 +12,8 @@ This program is designed for beginners in encryption, providing a simple yet pra
 - Supports English and Spanish alphabets.
 - Allows selecting a specific encryption level or performing bulk encryption/decryption (all levels from 1 to 25 in English or 1 to 26 in Spanish).
 - Command-line interface with various flags for customization.
-- Supports combining flags (e.g., `-eslk` instead of `-e -k -s -l`).
-- Flags can be provided separately with values (e.g., `-e -k en -s "Hello, World!" -l 3`) or combined (e.g., `-eksl en "Hello, World!" 3`).
+- Supports combining flags (e.g., `-eksl` instead of `-e -k -s -l`).
+- Flags can be provided separately with values (e.g., `-e -s "Hello, World!" -l 3`) or combined (e.g., `-esl "Hello, World!" 3`).
 
 ## Installation & Compilation
 
